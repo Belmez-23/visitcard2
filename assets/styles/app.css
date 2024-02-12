@@ -1,3 +1,14 @@
 body {
-    background-color: lightgray;
+    background-color: rgb(227,215,215);
+    font-family: Courier, serif;
 }
+.column {
+    display: inline-block;
+    margin: 10px;
+}
+.base-text {
+    text-align: justify;
+}
+#profile-photo {
+    margin: 10px;
+ }
